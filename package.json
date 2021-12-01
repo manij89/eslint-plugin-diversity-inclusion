@@ -24,10 +24,6 @@
   },
   "keywords": [],
   "author": "Mandy Nijssen",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/getyourguide/ts-libs.git"
-  },
   "dependencies": {
     "@types/eslint": "^8.2.0",
     "@types/requireindex": "^1.2.0",
@@ -47,5 +43,14 @@
   "lint-staged": {
     "*.{js,ts}": "eslint --cache --fix",
     "*.{js,ts,json,md}": "prettier --write"
-  }
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manij89/eslint-plugin-diversity-inclusion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manij89/eslint-plugin-diversity-inclusion/issues"
+  },
+  "homepage": "https://github.com/manij89/eslint-plugin-diversity-inclusion#readme"
 }
