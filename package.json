@@ -1,6 +1,6 @@
 {
-  "name": "@getyourguide/eslint-plugin-diversity-inclusion",
-  "version": "1.0.0",
+  "name": "eslint-plugin-diversity-inclusion",
+  "version": "1.0.2",
   "description": "eslint plugin to encourage the use of inclusive code",
   "source": "src/index.ts",
   "types": "dist/index.d.ts",
