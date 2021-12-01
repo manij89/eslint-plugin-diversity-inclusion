@@ -18,7 +18,7 @@
     "start": "microbundle watch",
     "build": "microbundle",
     "lint": "eslint src ",
-    "test": "jest",
+    "test": "echo 'no test'",
     "release": "npm run build && np",
     "prepare": "husky install"
   },
