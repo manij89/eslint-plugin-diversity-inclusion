@@ -44,6 +44,11 @@ warning, `2` an error.
   }
 }
 ```
+Example of warning in the console:
+
+```
+ warning  "master" could be seen as insensitive, please use (a variant of) "primary,main,leader" instead 
+ ```
 
 ## Supported Rules
 
