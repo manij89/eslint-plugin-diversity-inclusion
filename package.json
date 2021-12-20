@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-diversity-inclusion",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "eslint plugin to encourage the use of inclusive code",
   "main": "lib/index.js",
   "engines": {
@@ -23,7 +23,7 @@
     "eslint-config-prettier": "^8.3.0",
     "husky": "^7.0.4",
     "lint-staged": "^12.1.2",
-    "np": "^7.6.0",
+    "np": "^5.1.3",
     "prettier": "^2.5.0"
   },
   "lint-staged": {
