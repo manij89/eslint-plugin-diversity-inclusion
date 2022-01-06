@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-diversity-inclusion",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "eslint plugin to encourage the use of inclusive code",
   "main": "lib/index.js",
   "engines": {
